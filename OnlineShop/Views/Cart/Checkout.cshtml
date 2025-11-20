@@ -1,0 +1,35 @@
+@model OnlineShop.Models.Order
+
+@{
+    ViewData["Title"] = "Оформление заказа";
+}
+
+<div class="container" style="max-width: 600px;">
+    <h2 class="my-4 text-center">Оформление заказа</h2>
+
+    <div class="card shadow-sm">
+        <div class="card-body p-4">
+            <form asp-action="Checkout" method="post">
+                <div class="mb-3">
+                    <label class="form-label">Ваше Имя и Фамилия</label>
+                    <input asp-for="Name" class="form-control" placeholder="Иван Иванов" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Номер телефона</label>
+                    <input asp-for="Phone" class="form-control" placeholder="+380..." />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Адрес доставки</label>
+                    <textarea asp-for="Address" class="form-control" rows="3" placeholder="Город, улица, дом..."></textarea>
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success w-100 btn-lg mt-3">Подтвердить заказ</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+@model int
+
+@{
+    ViewData["Title"] = "Заказ принят";
+}
+
+<div class="container text-center mt-5">
+    <div class="display-1 text-success mb-3">✓</div>
+    <h1 class="mb-3">Спасибо за покупку!</h1>
+    <p class="lead">Ваш заказ <strong>№@Model</strong> успешно оформлен.</p>
+    <p>Наш менеджер свяжется с вами в ближайшее время.</p>
+    
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary mt-4">Вернуться в магазин</a>
+</div>

@@ -1,0 +1,62 @@
+@model IEnumerable<OnlineShop.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Корзина";
+    decimal totalSum = Model.Sum(x => x.Quantity * x.Product.Price);
+}
+
+<div class="container">
+    <h2 class="my-4">Ваша корзина</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            В корзине пока пусто. <a asp-controller="Home" asp-action="Index">Перейти к покупкам</a>
+        </div>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped bg-white align-middle">
+            <thead>
+            <tr>
+                <th>Товар</th>
+                <th>Цена</th>
+                <th>Количество</th>
+                <th>Сумма</th>
+                <th></th> </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <div class="d-flex align-items-center">
+                            <img src="@item.Product.ImageUrl" style="width: 50px; height: 50px; object-fit: contain; margin-right: 15px;">
+                            <strong>@item.Product.Brand @item.Product.Model</strong>
+                        </div>
+                    </td>
+                    <td>@item.Product.Price $</td>
+                    <td>@item.Quantity шт.</td>
+                    <td>@(item.Quantity * item.Product.Price) $</td>
+                    <td class="text-center">
+                        <a asp-action="RemoveItem" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm">
+                            ✕
+                        </a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+
+        <div class="d-flex justify-content-between align-items-center mt-4">
+            <a asp-action="ClearCart" class="btn btn-outline-secondary">
+                Очистить корзину
+            </a>
+
+            <div class="d-flex align-items-center">
+                <h3 class="me-4 m-0">Итого: <span class="text-success">@totalSum $</span></h3>
+                <a asp-action="Checkout" class="btn btn-primary btn-lg">Оформить заказ</a>
+            </div>
+        </div>
+    }
+</div>
