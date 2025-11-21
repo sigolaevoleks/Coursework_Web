@@ -24,4 +24,6 @@
 * **CRUD товаров:** Создание, чтение, редактирование и удаление товаров.
 * **Учет остатков:** Управление количеством товара на складе.
 
-© 2025 Сиголаев А.В.
+### 🔗 Архив проекта: https://drive.proton.me/urls/7Z0XHR9EHW#7Comehb9maQW
+
+### 🔗 PDF отчет: https://drive.proton.me/urls/BGWVQ0VJEM#KXFIq5A2XoYm
