@@ -17,83 +17,83 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OnlineShop
 build_property.RootNamespace = OnlineShop
-build_property.ProjectDir = /Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/
+build_property.ProjectDir = /Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop
+build_property.MSBuildProjectDirectory = /Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Areas/Identity/Pages/_ViewStart.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Cart/Checkout.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Cart/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Cart/Index.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Cart/OrderConfirmation.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Cart/OrderConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9PcmRlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Home/Index.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Home/Privacy.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Products/Create.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Products/Delete.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Products/Details.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Products/Edit.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Products/Index.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Shared/Components/Cart/Default.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Shared/Components/Cart/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2FydC9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Shared/Error.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Shared/_LoginPartial.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/_ViewImports.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/_ViewStart.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/Views/Shared/_Layout.cshtml]
+[/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f11yq2fz9h

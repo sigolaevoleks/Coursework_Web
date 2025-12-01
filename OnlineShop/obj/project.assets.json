@@ -8363,11 +8363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/OnlineShop.csproj",
+      "projectUniqueName": "/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/OnlineShop.csproj",
       "projectName": "OnlineShop",
-      "projectPath": "/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/OnlineShop.csproj",
+      "projectPath": "/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/OnlineShop.csproj",
       "packagesPath": "/Users/aleksandrsigolaev/.nuget/packages/",
-      "outputPath": "/Users/aleksandrsigolaev/RiderProjects/Coursework_Web/OnlineShop/obj/",
+      "outputPath": "/Users/aleksandrsigolaev/Downloads/Coursework_Web-1/OnlineShop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aleksandrsigolaev/.nuget/NuGet/NuGet.Config"
