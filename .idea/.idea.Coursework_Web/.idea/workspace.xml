@@ -9,241 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb959afb-ddfc-423a-9011-f60cf5f43d1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/data_source_mapping.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/db-forest-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/Controllers/ProductsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/Controllers/ProductsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/app.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/bin/Debug/net8.0/OnlineShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/bin/Debug/net8.0/OnlineShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/bin/Debug/net8.0/OnlineShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/bin/Debug/net8.0/OnlineShop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/bin/Debug/net8.0/OnlineShop.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/bin/Debug/net8.0/OnlineShop.staticwebassets.runtime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/.nupkg.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/NOTICE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator.8.0.7.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator.8.0.7.nupkg.sha512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator.nuspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/DotnetToolSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Humanizer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.AnalyzerUtilities.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.CSharp.Features.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.Elfie.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.Features.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.CodeAnalysis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.DiaSymReader.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.DotNet.Scaffolding.Shared.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.DotNet.Scaffolding.Shared.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.DotNet.Scaffolding.Shared.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Mono.TextTemplating.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.Common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.Configuration.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.DependencyResolver.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.Frameworks.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.LibraryModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.Packaging.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.ProjectModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.Protocol.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/NuGet.Versioning.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.CodeDom.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Composition.AttributedModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Composition.Convention.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Composition.Hosting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Composition.Runtime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Composition.TypedParts.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Configuration.ConfigurationManager.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.IO.Pipelines.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/System.Security.Permissions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/af/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ar/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/az/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/bg/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/bn-BD/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/build/microsoft.visualstudio.web.codegeneration.tools.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/buildMultiTargeting/microsoft.visualstudio.web.codegeneration.tools.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/da/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/dotnet-aspnet-codegenerator.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/dotnet-aspnet-codegenerator.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/dotnet-aspnet-codegenerator.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/dotnet-aspnet-codegenerator.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/dotnet-aspnet-codegenerator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/el/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fa/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fi-FI/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr-BE/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/he/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/hr/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/hu/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/hy/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/id/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/is/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko-KR/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ku/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/lv/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ms-MY/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/mt/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/nb-NO/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/nb/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/nl/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/pt/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ro/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/shims/win-x64/dotnet-aspnet-codegenerator.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/shims/win-x86/dotnet-aspnet-codegenerator.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/sk/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/sl/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/sr-Latn/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/sr/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/sv/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/th-TH/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/toolassets/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Msbuild.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/uk/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/uz-Cyrl-UZ/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/uz-Latn-UZ/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/vi/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-CN/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Humanizer.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/dotnet-aspnet-codegenerator/8.0.7/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/.store/dotnet-aspnet-codegenerator/8.0.7/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/OnlineShop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/ref/OnlineShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/ref/OnlineShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/refint/OnlineShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/refint/OnlineShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/Debug/net8.0/staticwebassets.pack.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/OnlineShop.csproj.EntityFrameworkCore.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/OnlineShop.csproj.codegeneration.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/OnlineShop.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/OnlineShop.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/dotnet-aspnet-codegenerator" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coursework_Web/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,23 +30,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.OnlineShop: http.executor&quot;: &quot;Run&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.OnlineShop: http.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.OnlineShop: http">
     <configuration name="OnlineShop: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/OnlineShop/OnlineShop.csproj" />
@@ -323,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764574108223</updated>
       <workItem from="1764574110681" duration="1099000" />
-      <workItem from="1764589329713" duration="2222000" />
+      <workItem from="1764589329713" duration="2501000" />
     </task>
     <servers />
   </component>
@@ -331,6 +98,29 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
